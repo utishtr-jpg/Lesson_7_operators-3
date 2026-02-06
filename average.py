@@ -16,11 +16,11 @@ avg = sum/5
 if avg>=91 and avg<=100:
     print("Congrats! Your grade is A1!")
 elif avg>=81 and avg<91:
-    print("Your grade is B1!")
+    print("Your grade is A2!")
 elif avg>=61 and avg<71:
-    print("Your grade is B2")
+    print("Your grade is B1")
 elif avg>=51 and avg<61:
-    print("Your grade is C1!")
+    print("Your grade is B2!")
 elif avg>=41 and avg<51:
     print("Your grade is C2!")
 elif avg>=31 and avg<41:
